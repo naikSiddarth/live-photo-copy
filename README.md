@@ -18,3 +18,10 @@ git clone https://github.com/naikSiddarth/live-photo-copy.git
 cd live-photo-copy
 ```
 **Download the [Wifi FTP Server](https://play.google.com/store/apps/details/WiFi_FTP_Server?id=com.medhaapps.wififtpserver&hl=en_ZA&source=sh/x/srp/wr/m1/2&kgs=4b1f60e3d2374855&pli=1) on your android**
+**Set the server root address to DCIM/Camera**
+**Start the server and make sure your phone and computer are connected to same network**
+**Login into the FTP server from your Linux machine** 
+**Run the main file**
+```shell
+python3 main.py
+```
