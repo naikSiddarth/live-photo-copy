@@ -6,7 +6,7 @@ This tool is used to copy the photos captured in your android phone to your linu
 On running the script it stores all the photo, video file names which are in DCMI/Camera.
 Every 10 second it checks if any new photo/video are captured if it finds any, it will copy those photos/videos to the path which is described in destn_path variable. 
 
-## Instalation 
+## Installation 
 ### Setting up your android 
 **1. Download the [Wifi FTP Server](https://play.google.com/store/apps/details/WiFi_FTP_Server?id=com.medhaapps.wififtpserver&hl=en_ZA&source=sh/x/srp/wr/m1/2&kgs=4b1f60e3d2374855&pli=1) on your android**  
 **2. Set the server root address to DCIM/Camera**  
